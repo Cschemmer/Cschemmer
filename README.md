@@ -1,4 +1,4 @@
-## Hi there 🤎
+## Bem vindo ao meu perfil 🤎
 
 Meu nome é *Carolini Schemmer*
 
