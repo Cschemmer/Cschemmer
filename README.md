@@ -6,5 +6,5 @@ Meu nome é *Carolini Schemmer*
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
--## Entre em contato comigo
--carolini.schemmer@escola.pr.gov.br
+## Entre em contato comigo
+- carolini.schemmer@escola.pr.gov.br
