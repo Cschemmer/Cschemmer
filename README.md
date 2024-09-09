@@ -8,4 +8,5 @@ Meu nome é *Carolini Schemmer*
 
 ## Entre em contato comigo
 - carolini.schemmer@escola.pr.gov.br
-https://tenor.com/u7TntaLYKNp.gif
+ 
+![]https://tenor.com/u7TntaLYKNp.gif
